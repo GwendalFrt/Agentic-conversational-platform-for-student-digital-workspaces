@@ -1,7 +1,7 @@
 # Agentic Conversational Platform for Student Digital Workspaces
 
 
-This project was carried out as part of a school project. Its goal was to develop a chatbot application based on an **agentic AI system**, dedicated to students and specialized in some of their tasks. This application is small in scale and intended as a prototype for a more powerful tool. A more advanced version could automate student support and improve access to university information.  
+This project was carried out as part of a school project. My goal was to develop a chatbot application based on an **agentic AI system**, dedicated to students and specialized in some of their tasks. This application is small in scale and intended as a prototype for a more powerful tool. A more advanced version could automate student support and improve access to university information.  
 
 The work does not aim to compete with the leading players in the field but rather seeks to **explore and understand the mechanisms currently used in applications based on generative text AI**.
 
