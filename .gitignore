@@ -1,3 +1,19 @@
-.env
+# Python
+__pycache__/
+*.pyc
 .venv/
+.env
 
+# Repo Agent
+Agent/AssistantTeacher/Markdown_data/
+Agent/AssistantTeacher/DBv/
+Agent/info_UVSQ/debug_html/
+
+# Fichiers locaux
+debug_html/
+notes.txt
+resultat_extraction.txt
+requirements.txt
+
+Agent/**/secrets/
+Agent/**/.env
